@@ -30,4 +30,6 @@ http://befin.ru/app/json-api/methodName
 Если произошла ошибка HTTP статус будет равен 403. В теле ответа будет следующий JSON:
 {errorCode: XXXX, errorMessage: "Сообщение об ошибке", details: "...."}.
 
+Test
+
 
